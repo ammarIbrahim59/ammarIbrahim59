@@ -28,7 +28,10 @@ I am a Computer Science student at **E-JUST** (4th Year), specializing in the in
 ![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-> **Specialization:** Object-Oriented Programming (OOP) in C#, Physics Engines (2D/3D), State Management, and Modular UI Systems.
+> **Key Focus Areas:**
+> * Object-Oriented Programming (OOP) in C#
+> * Physics Engines (2D/3D) & Wall-Rebound Logic
+> * State Management & Modular UI Systems
 
 ### Data Science & AI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
@@ -49,8 +52,9 @@ I am a Computer Science student at **E-JUST** (4th Year), specializing in the in
 
 ---
 
+## GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammaribrahim59&show_icons=true&theme=tokyonight" alt="Ammar's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ammaribrahim59&show_icons=true&theme=tokyonight" alt="Ammar's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaribrahim59&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ammaribrahim59&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
